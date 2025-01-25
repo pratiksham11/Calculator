@@ -1,0 +1,23 @@
+.abc{
+    text-align: center;
+  }
+  .container{
+    background-color:whitesmoke;
+ width: 350px;
+  
+   
+   
+   
+  }
+  .x{
+    margin:auto;
+  }
+  .flex{
+    display: flex;
+  }
+  .y{
+    flex-direction: column;
+  }
+  .z{
+    align-items: center;
+  }
